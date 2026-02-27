@@ -34,7 +34,7 @@ const App: React.FC = () => {
       try {
         // 'no-cors' use karanne CORS errors console eke pennana eka nawaththanna.
         // Request eka server ekata yanawa, response eka read karanna bari unath server eka aherenawa.
-        await fetch('https://king-ranux-pair-web.onrender.com', { mode: 'no-cors' });
+        await fetch('https://ishan-x-md-beta-pair-web.onrender.com', { mode: 'no-cors' });
         console.log('🚀 Server 1 Wake-up Ping Sent!');
       } catch (error) {
         // Silent fail - user ta disturb wenne na
