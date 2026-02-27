@@ -25,7 +25,7 @@ const DownloadsSection: React.FC = () => {
 
                                 <div className="w-full space-y-4">
                                     {/* Download Button */}
-                                    <a href="https://github.com/ransara-devnath-ofc/King-RANUX-PRO-Official-/archive/refs/heads/main.zip" className="block w-full">
+                                    <a href="https://github.com/ishanxmd/ISHAN-X-BETA-MD/archive/refs/heads/main.zip" className="block w-full">
                                         <button className="w-full py-4 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-bold tracking-wide shadow-lg shadow-blue-500/25 hover:shadow-blue-500/40 transition-all transform hover:-translate-y-1">
                                             Download ZIP
                                         </button>
