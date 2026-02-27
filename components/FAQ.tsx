@@ -36,8 +36,8 @@ const FAQ: React.FC = () => {
 
             <div className="max-w-3xl mx-auto" data-aos="fade-up">
                 <FAQItem 
-                    question="Is King RANUX Pro Free?" 
-                    answer="Yes, King RANUX Pro is 100% free to use. With our new Cloud System, you don't even need to pay for servers." 
+                    question="Is ISHAN-X MD BETA Free?" 
+                    answer="Yes, ISHAN-X MD BETA is 100% free to use. With our new Cloud System, you don't even need to pay for servers." 
                 />
                 <FAQItem 
                     question="Do I need Heroku or GitHub?" 
