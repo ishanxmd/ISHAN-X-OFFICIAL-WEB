@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
             {/* Main Glitch Title */}
             <div data-aos="zoom-in" className="mb-6 relative z-20">
                  <h1 className="text-6xl md:text-8xl font-black text-white leading-tight tracking-tighter">
-                    King <span className="glitch text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500" data-text="RANUX Pro">RANUX Pro</span>
+                    ISHAN <span className="glitch text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500" data-text="BETA MD">BETA MD</span>
                 </h1>
             </div>
 
